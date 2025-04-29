@@ -1,2 +1,2 @@
-#FROM vllm/vllm-openai:latest
-FROM vllm/vllm-openai:v0.8.5
+FROM lmsysorg/sglang:latest
+#FROM lmsysorg/sglang:v0.4.6
